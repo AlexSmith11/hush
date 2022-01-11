@@ -1,6 +1,6 @@
 name: 'produce trash 🗑️'
 
-# Run every hour on the hour
+# Run once a day at 20:07
 on:
   schedule:
     - cron: '7 8 * * *'
