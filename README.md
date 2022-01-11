@@ -1,5 +1,5 @@
-# hush
-secret project hush hush
+# TRASH
+GARBAGE AND TRASH AND RUBBISH
 
 ![produce trash](https://github.com/LindseyB/dummy/workflows/produce%20trash/badge.svg)
 
