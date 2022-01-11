@@ -3,7 +3,7 @@ name: 'produce trash 🗑️'
 # Run once a day at 20:07
 on:
   schedule:
-    - cron: '7 8 * * *'
+    - cron: '45 7 * * *'
 
 jobs:
   build:
